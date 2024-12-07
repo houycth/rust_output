@@ -1,3 +1,5 @@
+// Main program entry point
+
 mod add;
 
 fn main() {
